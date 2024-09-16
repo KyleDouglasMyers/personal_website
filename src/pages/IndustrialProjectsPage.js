@@ -71,7 +71,7 @@ function IndustrialProjectsPage() {
                 When I arrived at Industrial projects they were tracking orders using papers, their website had not been updated since 2013 and emails were being stored locally. They hired me to bring they technology stack up to date, and to do a full reform of order tracking.
             </p>
             <p className={paragraphClasses}>
-                My responsibilities as a contract software engineer were as follows:
+                My responsibilities as a software engineering intern were as follows:
             </p>
             <h3 className={subTitleClasses}>
                 Create and deploy a new website:
